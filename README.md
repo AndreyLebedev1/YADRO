@@ -2,7 +2,7 @@
 Для запуска программы использовать команду:
 ```
 //Сборка проекта
-%g++ main.cpp -std=c++2a
+% g++ main.cpp -std=c++2a
 
 //Запуск кода
 % ./a.out your_path_to_csv_table
